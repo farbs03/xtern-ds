@@ -1,0 +1,3 @@
+time,name,address,cuisine_type,travel_distance,travel_time,transportation_type
+10:00 AM,ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204, USA",meal_delivery,1.3 mi,5.0 mins,driving
+18:00 PM,The Night Owl Food Truck,"South and, S Meridian St, Indianapolis, IN 46225, USA",restaurant,4.0 mi,14.0 mins,driving
